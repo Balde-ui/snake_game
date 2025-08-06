@@ -14,16 +14,9 @@ Un petit jeu 2D de type **Snake**, codé par notre équipe pour pratiquer la log
 
 ---
 
-## 📸 Aperçu
-
-
-
----
-
-## 🛠️ Technologies utilisées
+## 🛠️ Technologie utilisée
 
 - Python (`pygame`)  
-
 
 ---
 
